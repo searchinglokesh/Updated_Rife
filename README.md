@@ -131,5 +131,3 @@ CPU Intel i7-9750H
 ## Team Members
 
 [Kolla Raghavendra Lokesh] 2019270
-
-[P.Likhita Reddy] 2019109
